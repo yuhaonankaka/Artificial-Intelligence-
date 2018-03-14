@@ -1,0 +1,6 @@
+<solution to apple - pear>
+
+1: apple
+2: leap
+3: ape
+4: pear

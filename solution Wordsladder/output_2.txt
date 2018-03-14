@@ -1,0 +1,9 @@
+<solution to crumpet - treacle>
+
+1: crumpet
+2: precut
+3: crept
+4: cert
+5: caret
+6: cartel
+7: treacle

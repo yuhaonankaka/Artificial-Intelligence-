@@ -1,0 +1,8 @@
+<solution to lead - gold>
+
+
+1: lead
+2: del
+3: dole
+4: old
+5: gold
